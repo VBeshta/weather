@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">weather</string>
+    <string name="city_field_hint">Enter the city</string>
+    <string name="main_button">Watch weather in city</string>
+    <string name="discription_view">How in city today</string>
+    <string name="default_T">18°C</string>
+</resources>
